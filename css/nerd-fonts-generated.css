@@ -6,9 +6,9 @@
  */
 
 @font-face {
-  font-family: 'Monoid Nerd Font';
+  font-family: 'Ubuntu Nerd Font';
   /* @TODO you need to adjust the path to the font: */
-  src: url("patched-fonts/Monoid/Regular/MonoidNerdFont-Regular.ttf") format("ttf");
+  src: url("patched-fonts/Ubuntu/Regular/UbuntuNerdFont-Regular.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
