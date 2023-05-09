@@ -6,9 +6,9 @@
  */
 
 @font-face {
-  font-family: 'Hasklug Nerd Font';
+  font-family: 'Inconsolata Nerd Font';
   /* @TODO you need to adjust the path to the font: */
-  src: url("patched-fonts/Hasklig/Regular/HasklugNerdFont-Regular.otf") format("otf");
+  src: url("patched-fonts/Inconsolata/InconsolataNerdFont-Regular.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
