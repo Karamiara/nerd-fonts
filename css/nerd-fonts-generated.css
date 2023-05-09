@@ -6,9 +6,9 @@
  */
 
 @font-face {
-  font-family: 'FiraCode Nerd Font Medium';
+  font-family: 'InconsolataGo Nerd Font';
   /* @TODO you need to adjust the path to the font: */
-  src: url("patched-fonts/FiraCode/Medium/FiraCodeNerdFont-Medium.ttf") format("ttf");
+  src: url("patched-fonts/InconsolataGo/Regular/InconsolataGoNerdFont-Regular.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
