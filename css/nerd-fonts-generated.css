@@ -6,7 +6,7 @@
  */
 
 @font-face {
-  font-family: 'FiraCode Nerd Font';
+  font-family: 'FiraCode Nerd Font Medium';
   /* @TODO you need to adjust the path to the font: */
   src: url("patched-fonts/FiraCode/Medium/FiraCodeNerdFont-Medium.ttf") format("ttf");
   font-weight: normal;
