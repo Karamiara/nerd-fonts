@@ -9,7 +9,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Asap&family=Dosis&family=Maven+Pro&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Carlito:ital@1&family=Mukta&family=Nunito&family=Varela+Round&display=swap');
 @font-face {
-  font-family: 'Maven Pro';
+  font-family: 'Varela Round';
   /* @TODO you need to adjust the path to the font: */
 /*  src: url("patched-fonts/Monoid/Regular/MonoidNerdFont-Regular.ttf") format("ttf");*/
   font-weight: normal;
