@@ -6,9 +6,9 @@
  */
 
 @font-face {
-  font-family: 'Inconsolata Nerd Font';
+  font-family: 'Monoid Nerd Font';
   /* @TODO you need to adjust the path to the font: */
-  src: url("patched-fonts/Inconsolata/InconsolataNerdFont-Regular.ttf") format("ttf");
+  src: url("patched-fonts/Monoid/Regular/MonoidNerdFont-Regular.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
