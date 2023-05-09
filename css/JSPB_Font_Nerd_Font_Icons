@@ -6,7 +6,7 @@
  */
 
 @font-face {
-  font-family: 'Monoid Nerd Font';
+  /*font-family: 'Monoid Nerd Font';*/
   /* @TODO you need to adjust the path to the font: */
   /*
  *# [Nerd Fonts]  Website: https://www.nerdfonts.com
