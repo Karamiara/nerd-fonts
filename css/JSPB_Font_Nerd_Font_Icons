@@ -27,7 +27,8 @@
 
 .nf, .nerd-font, .nerd-fonts {
   font-family: 'NerdFontsSymbols Nerd Font';
-  speak: none;
+src: url("patched-fonts/NerdFontsSymbolsOnly/SymbolsNerdFont-Regular.ttf") format("ttf");
+speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
