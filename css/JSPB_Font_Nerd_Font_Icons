@@ -5,15 +5,6 @@
  *# [Nerd Fonts]  The following is generated from the build script
  */
 
-@font-face {
-  /*font-family: 'Monoid Nerd Font';*/
-  /* @TODO you need to adjust the path to the font: */
-  /*
- *# [Nerd Fonts]  Website: https://www.nerdfonts.com
- *# [Nerd Fonts]  Development Website: https://github.com/ryanoasis/nerd-fonts
- *# [Nerd Fonts]  Version: 3.0.0
- *# [Nerd Fonts]  The following is generated from the build script
- */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Kanit&family=Reem+Kufi+Fun&family=Source+Sans+Pro&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Asap&family=Dosis&family=Maven+Pro&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Carlito:ital@1&family=Mukta&family=Nunito&family=Varela+Round&display=swap');
