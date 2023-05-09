@@ -13,6 +13,7 @@
   /* @TODO you need to adjust the path to the font: */
 /*  src: url("patched-fonts/Monoid/Regular/MonoidNerdFont-Regular.ttf") format("ttf");*/
   font-weight: normal;
+  font-size: 18px;
   font-style: normal;
 }
 
