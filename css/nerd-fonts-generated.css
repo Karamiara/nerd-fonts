@@ -6,9 +6,9 @@
  */
 
 @font-face {
-  font-family: 'NerdFontsSymbols Nerd Font';
+  font-family: 'Hasklug Nerd Font';
   /* @TODO you need to adjust the path to the font: */
-  src: url("src/unpatched-fonts/Symbols-2048-em Nerd Font Complete.woff2") format("woff2");
+  src: url("patched-fonts/Hasklig/Regular/HasklugNerdFont-Regular.otf") format("otf");
   font-weight: normal;
   font-style: normal;
 }
