@@ -5,18 +5,6 @@
  *# [Nerd Fonts]  The following is generated from the build script
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Kanit&family=Reem+Kufi+Fun&family=Source+Sans+Pro&display=swap');
-    @import url('https://fonts.googleapis.com/css2?family=Asap&family=Dosis&family=Maven+Pro&display=swap');
-    @import url('https://fonts.googleapis.com/css2?family=Carlito:ital@1&family=Mukta&family=Nunito&family=Varela+Round&display=swap');
-@font-face {
-  font-family: 'Varela Round';
-  /* @TODO you need to adjust the path to the font: */
-/*  src: url("patched-fonts/Monoid/Regular/MonoidNerdFont-Regular.ttf") format("ttf");*/
-  font-weight: normal;
-  font-size: 18px;
-  font-style: normal;
-}
-
 .nf, .nerd-font, .nerd-fonts {
   font-family: 'NerdFontsSymbols Nerd Font';
 src: url("patched-fonts/NerdFontsSymbolsOnly/SymbolsNerdFont-Regular.ttf") format("ttf");
